@@ -10,4 +10,4 @@ Meu nome é Neemias Braw
 
 000000
 
-! [] (https://media1.tenor.com/m/YicHWOL4locAAAAd/sorprendido-cara-surprised.gif)
+![](https://media1.tenor.com/m/YicHWOL4locAAAAd/sorprendido-cara-surprised.gif)
